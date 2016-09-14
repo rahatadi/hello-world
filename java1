@@ -3,7 +3,7 @@ package project1;
 public class calss1 {
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 		
 		System.out.println("hello_to_all_i_am_here!");
 		int initialBalance = 10000 ;
@@ -14,7 +14,7 @@ public class calss1 {
 			 balance = balance * 1.05;
 			}
 		
-		System.out.println("your balance will be " + balance + " after" + years +" years");
+		System.out.println("ur balance will be " + balance + " after" + years +" years");
 		
 
 	}
