@@ -102,7 +102,7 @@ def main():
 				quit_game(board,out)
 			elif move == 9:
 				quit_game(board,"No winner :(")
-
+ 
 if __name__ == "__main__":
 	main()
 	
