@@ -6,6 +6,7 @@ public class calss1 {
 		
 		
 		System.out.println("hello_to_all_i_am_here!");
+		
 		public int indexOfFirstOccurrence(String[] stringArray, String target)
 		{
 			for (int i = 0; i < stringArray.length; i++) {
@@ -14,6 +15,7 @@ public class calss1 {
 			}
 			}
 			return -1;
+			System.out.println("all_is_hell");
 			}
 
 	}
