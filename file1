@@ -14,7 +14,7 @@ public class calss1 {
 			 balance = balance * 1.05;
 			}
 		
-		System.out.println("ur balance will be " + balance + " after" + years +" years");
+		System.out.println("your balance will be " + balance + " after" + years +" years");
 		
 
 	}
