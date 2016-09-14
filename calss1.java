@@ -11,7 +11,7 @@ public class calss1 {
 			double balance = initialBalance;
 			while (balance < 1000000 && years < 10) {
 			years++;
-			 balance = balance * 1.05;
+		balance = balance * 1.05;
 			}
 		
 		System.out.println("ur balance will be " + balance + " after" + years +" years");
